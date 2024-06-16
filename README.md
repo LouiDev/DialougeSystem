@@ -1,4 +1,4 @@
-# DialougeSystem for GTA V scripting
+# Dialouge system for GTA V scripting
 Simple dialouge system for GTA V scripting
 
 This is a very simple dialouge system to enhance the immersion of your GTA V script.
