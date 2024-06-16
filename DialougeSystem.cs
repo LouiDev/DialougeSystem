@@ -13,6 +13,7 @@ namespace LSPDFRCallout
         public DialougeSystem(String[] messages)
         {
             this.messages = messages;
+            indexActions = new Dictionary<int, Action>();
 
             index = -1;
         }
