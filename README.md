@@ -18,7 +18,7 @@ Creating a dialouge:
 ```
 DialougeSystem dialougeSystem = new DialougeSystem(new string[]
 {
-    "~g~You: ~w~Hey there, what's up!,
+    "~g~You: ~w~Hey there, what's up!",
     "~b~Friend: ~w~Sup, dude! How's it going?"
 });
 ```
