@@ -7,7 +7,7 @@ Just copy DialougeSystem.cs in your project and don't forget to rename the names
 The class has the following methods:
 - ``void Progress()``                 - Progresses the dialouge
 - ``void Reset()``                    - Resets the dialouge
-- ``void AddActionToIndex``           - Adds an Action that will be executed once the dialouge reaches the specified index 
+- ``void AddActionToIndex()``           - Adds an Action that will be executed once the dialouge reaches the specified index 
 - ``string GetCurrentMessage()``      - Gets the current message of the dialouge
 - ``bool Isrunning()``                - Checks if dialouge is running
 - ``bool HasStarted()``               - Checks if dialouge has started
